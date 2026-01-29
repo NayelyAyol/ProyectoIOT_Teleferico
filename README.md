@@ -5,8 +5,7 @@
 # 🚡 TELEFÉRICO INTELIGENTE  
 ### Proyecto IoT – Segundo Bimestre  
 
-</div>
-
+---
 
 ## 📚 Información Académica
 
@@ -29,7 +28,7 @@
 
 ## 🎯 Descripción del Proyecto
 
-El **Teleférico Inteligente** es una maqueta funcional desarrollada con **Arduino Uno**, sensores y actuadores, que simula un sistema de transporte automatizado y seguro.
+El **Teleférico Inteligente** es una maqueta funcional desarrollada con **Arduino Uno**, sensores y actuadores, que simula un sistema de transporte automatizado y seguro.  
 
 El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, humo, luz, temperatura y humedad, ajustando la velocidad del teleférico y activando mecanismos de seguridad.
 
@@ -44,7 +43,7 @@ El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, 
 💡 LDR (Sensor de Luz)  
 📡 ESP8266-01 (WiFi – ThingSpeak)  
 🔄 Servomotor SG90 360°  
-💡 LEDs, resistencias y protoboard  
+💡 LEDs + resistencias + protoboard  
 
 ---
 
@@ -60,14 +59,18 @@ El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, 
 
 ## 🔗 Accesos Rápidos
 
-Repositorio GitHub:  
-https://github.com/NayelyAyol/ProyectoIOT_Teleferico  
+<a href="https://github.com/NayelyAyol/ProyectoIOT_Teleferico" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20Repositorio-black?style=for-the-badge&logo=github">
+</a>
 
-Video demostrativo (TikTok):  
-https://vt.tiktok.com/ZSa9MD6ef/  
+<a href="https://vt.tiktok.com/ZSa9MD6ef/" target="_blank">
+  <img src="https://img.shields.io/badge/Video-Ver%20Demo-pink?style=for-the-badge&logo=tiktok">
+</a>
 
-Presentación del proyecto (Canva):  
-https://www.canva.com/design/DAG_wjKJ4J8/GxSDfyzM4H9cgz8o9UkkGA/edit  
+<a href="https://www.canva.com/design/DAG_wjKJ4J8/GxSDfyzM4H9cgz8o9UkkGA/edit?utm_content=DAG_wjKJ4J8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-Presentación-purple?style=for-the-badge&logo=canva">
+</a>
 
-Plataforma IoT:  
-https://thingspeak.com  
+<a href="https://thingspeak.com" target="_blank">
+  <img src="https://img.shields.io/badge/ThingSpeak-Dashboard-green?style=for-the-badge">
+</a>
