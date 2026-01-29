@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/IoT-Proyecto-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/ESP8266-WiFi-orange?style=for-the-badge">
 
+</div>
+
 ---
 
 ## 📚 Información Académica
@@ -25,7 +27,7 @@
 
 - Nayely del Rocío Ayol Guanoluisa  
 - Emily Alejandra Galeas Tingo  
-- Alessia de los Ángeles Pérez Palacios
+- Alessia de los Ángeles Pérez Palacios  
 - Joel Eduardo Torres Mora  
 
 ---
@@ -78,6 +80,3 @@ El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, 
 <a href="https://thingspeak.com" target="_blank">
   <img src="https://img.shields.io/badge/ThingSpeak-Dashboard-green?style=for-the-badge">
 </a>
-
-
-</div>
