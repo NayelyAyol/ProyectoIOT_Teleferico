@@ -5,6 +5,8 @@
 # 🚡 TELEFÉRICO INTELIGENTE  
 ### Proyecto IoT – Segundo Bimestre  
 
+</div>
+
 ---
 
 ## 📚 Información Académica
@@ -67,7 +69,7 @@ El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, 
   <img src="https://img.shields.io/badge/Video-Ver%20Demo-pink?style=for-the-badge&logo=tiktok">
 </a>
 
-<a href="https://www.canva.com/design/DAG_wjKJ4J8/GxSDfyzM4H9cgz8o9UkkGA/edit?utm_content=DAG_wjKJ4J8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+<a href="https://www.canva.com/design/DAG_wjKJ4J8/GxSDfyzM4H9cgz8o9UkkGA/edit" target="_blank">
   <img src="https://img.shields.io/badge/Canva-Presentación-purple?style=for-the-badge&logo=canva">
 </a>
 
