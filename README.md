@@ -7,11 +7,6 @@
 
 </div>
 
-![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?style=for-the-badge&logo=arduino)
-![IoT](https://img.shields.io/badge/IoT-Proyecto-green?style=for-the-badge)
-![ESP8266](https://img.shields.io/badge/ESP8266-WiFi-orange?style=for-the-badge)
-
----
 
 ## 📚 Información Académica
 
