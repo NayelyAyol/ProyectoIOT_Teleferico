@@ -77,6 +77,4 @@ El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, 
   <img src="https://img.shields.io/badge/Canva-Presentación-purple?style=for-the-badge&logo=canva">
 </a>
 
-<a href="https://thingspeak.com" target="_blank">
-  <img src="https://img.shields.io/badge/ThingSpeak-Dashboard-green?style=for-the-badge">
-</a>
+
