@@ -1,3 +1,5 @@
+# ProyectoIOT_Teleferico
+
 <div align="center">
 
 # 🚡 TELEFÉRICO INTELIGENTE  
@@ -14,7 +16,7 @@
 **Institución:** Escuela Politécnica Nacional  
 **Carrera:** Escuela de Formación de Tecnólogos  
 **Asignatura:** Desarrollo de IoT  
-**Docente:** Ing. Juan Carlos Ortiz  
+**Docente:** Ing. Juan Carlos Gonzalez Ortiz  
 **Período Académico:** 2025-B  
 
 ---
@@ -23,7 +25,7 @@
 
 - Nayely del Rocío Ayol Guanoluisa  
 - Emily Alejandra Galeas Tingo  
-- **Alessia de los Ángeles Pérez Palacios**  
+- Alessia de los Ángeles Pérez Palacios
 - Joel Eduardo Torres Mora  
 
 ---
@@ -53,8 +55,8 @@ El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, 
 
 ✔️ Envío de datos a ThingSpeak  
 ✔️ Reducción de velocidad por lluvia  
-✔️ Detención del sistema ante humo  
-✔️ Encendido automático de luces en la noche  
+✔️ Detención del sistema ante presencia de humo  
+✔️ Encendido automático de luces en condiciones de baja iluminación  
 ✔️ Movimiento continuo del teleférico en una sola dirección  
 
 ---
@@ -65,23 +67,17 @@ El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, 
   <img src="https://img.shields.io/badge/GitHub-Ver%20Repositorio-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://vt.tiktok.com/ZSa9LYFTw/" target="_blank">
+<a href="https://vt.tiktok.com/ZSa9MD6ef/" target="_blank">
   <img src="https://img.shields.io/badge/Video-Ver%20Demo-pink?style=for-the-badge&logo=tiktok">
+</a>
+
+<a href="https://www.canva.com/design/DAG_wjKJ4J8/GxSDfyzM4H9cgz8o9UkkGA/edit?utm_content=DAG_wjKJ4J8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-Presentación-purple?style=for-the-badge&logo=canva">
 </a>
 
 <a href="https://thingspeak.com" target="_blank">
   <img src="https://img.shields.io/badge/ThingSpeak-Dashboard-green?style=for-the-badge">
 </a>
 
----
-
-## 📅 Fechas
-
-📌 **Fecha de realización:** 19 / 01 / 2026  
-📌 **Fecha de entrega:** 29 / 01 / 2026  
-
----
-
-✨ *Proyecto enfocado en automatización, monitoreo ambiental y seguridad en sistemas IoT.*
 
 </div>
