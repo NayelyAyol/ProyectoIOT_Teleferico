@@ -5,11 +5,11 @@
 # 🚡 TELEFÉRICO INTELIGENTE  
 ### Proyecto IoT – Segundo Bimestre  
 
-<img src="https://img.shields.io/badge/Arduino-Uno-blue?style=for-the-badge&logo=arduino">
-<img src="https://img.shields.io/badge/IoT-Proyecto-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/ESP8266-WiFi-orange?style=for-the-badge">
-
 </div>
+
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?style=for-the-badge&logo=arduino)
+![IoT](https://img.shields.io/badge/IoT-Proyecto-green?style=for-the-badge)
+![ESP8266](https://img.shields.io/badge/ESP8266-WiFi-orange?style=for-the-badge)
 
 ---
 
@@ -66,13 +66,13 @@ El sistema reacciona automáticamente ante **eventos ambientales** como lluvia, 
 ## 🔗 Accesos Rápidos
 
 Repositorio GitHub:  
-https://github.com/NayelyAyol/ProyectoIOT_Teleferico
+https://github.com/NayelyAyol/ProyectoIOT_Teleferico  
 
 Video demostrativo (TikTok):  
-https://vt.tiktok.com/ZSa9MD6ef/
+https://vt.tiktok.com/ZSa9MD6ef/  
 
 Presentación del proyecto (Canva):  
-https://www.canva.com/design/DAG_wjKJ4J8/GxSDfyzM4H9cgz8o9UkkGA/edit
+https://www.canva.com/design/DAG_wjKJ4J8/GxSDfyzM4H9cgz8o9UkkGA/edit  
 
 Plataforma IoT:  
-https://thingspeak.com
+https://thingspeak.com  
